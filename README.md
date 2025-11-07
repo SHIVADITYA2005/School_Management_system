@@ -45,7 +45,7 @@ It helps educational institutions **automate and centralize** administrative tas
 
 ## 🧠 System Architecture
 
-
+```plaintext
 ┌────────────────────────┐
 │    Frontend (GUI)      │ ← Java Swing / AWT
 └──────────┬─────────────┘
@@ -143,8 +143,10 @@ for their guidance and encouragement during this project.
 
 ---
 
+```
+
 <p align="center">
-  <img src="https://img.icons8.com/color/96/java-coffee-cup-logo.png" width="70">
+  <img src="https://img.icons8.com/color/96/java-coffee-cup-logo.png" width="70" alt="Java Logo">
 </p>
 
 <h3 align="center">"Empowering education through digital innovation."</h3>
@@ -157,3 +159,4 @@ for their guidance and encouragement during this project.
     <img src="https://img.shields.io/github/forks/SHIVADITYA2005/School_Management_system?style=social" alt="GitHub forks">
   </a>
 </p>
+
