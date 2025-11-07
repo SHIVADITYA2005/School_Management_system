@@ -45,7 +45,7 @@ It helps educational institutions **automate and centralize** administrative tas
 
 ## 🧠 System Architecture
 
-```plaintext
+
 ┌────────────────────────┐
 │    Frontend (GUI)      │ ← Java Swing / AWT
 └──────────┬─────────────┘
