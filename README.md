@@ -141,4 +141,19 @@ Special thanks to
 🎓 Department of Computer Science & Engineering, SRM IST, NCR Campus
 for their guidance and encouragement during this project.
 
-<p align="center"> <img src="https://img.icons8.com/color/96/java-coffee-cup-logo.png" width="70"> </p> <h3 align="center">"Empowering education through digital innovation."</h3> <p align="center"> <a href="https://github.com/SHIVADITYA2005/School_Management_system"><img src="https://img.shields.io/github/stars/SHIVADITYA2005/School_Management_system?style=social" alt="GitHub stars"></a> <a href="https://github.com/SHIVADITYA2005/School_Management_system/fork"><img src="https://img.shields.io/github/forks/SHIVADITYA2005/School_Management_system?style=social" alt="GitHub forks"></a> </p> ```
+---
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/java-coffee-cup-logo.png" width="70">
+</p>
+
+<h3 align="center">"Empowering education through digital innovation."</h3>
+
+<p align="center">
+  <a href="https://github.com/SHIVADITYA2005/School_Management_system">
+    <img src="https://img.shields.io/github/stars/SHIVADITYA2005/School_Management_system?style=social" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/SHIVADITYA2005/School_Management_system/fork">
+    <img src="https://img.shields.io/github/forks/SHIVADITYA2005/School_Management_system?style=social" alt="GitHub forks">
+  </a>
+</p>
