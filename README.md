@@ -90,17 +90,14 @@ cd School_Management_system
 Install MySQL and create a database named:
 
 sql
-Copy code
 CREATE DATABASE school_management;
 Import your tables and schema.
 
 🪜 Step 3: Compile the Project
 bash
-Copy code
 javac -cp "lib/mysql-connector-j-9.5.0.jar;src" -d bin src/frontend/*.java src/execution/*.java src/attributes/*.java src/connection/*.java
 🪜 Step 4: Run the Application
 bash
-Copy code
 java -cp "lib/mysql-connector-j-9.5.0.jar;bin" frontend.Main
 📚 Learning Outcomes
 Through this project, I learned:
@@ -120,7 +117,6 @@ Through this project, I learned:
 
 📚 Subject Management	🧾 Enrollment	📅 Attendance
 
-(You can replace these icons with your actual project screenshots later.)
 
 👨‍💻 Author
 Developed by:
